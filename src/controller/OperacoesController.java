@@ -50,7 +50,7 @@ public class OperacoesController {
 		
 		//tempoTotal = tempoTotal / Math.pow(10, 9);
 		
-		System.out.println("vetor==>"+tempoTotal+"segundos");
+		System.out.println("vetor==>"+tempoTotal);
 	}
 }
 //ctrl + d apaga a linha toda 
